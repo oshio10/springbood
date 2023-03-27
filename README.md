@@ -64,7 +64,7 @@ git push -u origin main
 ### Avec Intellij
 Lancer Intellij et ouvrir tout simplement le projet. 
 Cependant, sur les machines de l'IUT, la compilation du projet ne fonctionnera pas. 
-Ce n'est pas très génant pour compiler votre projet vous pourrez ke faire via une commande.
+Ce n'est pas très génant pour compiler votre projet vous pourrez le faire via une commande.
 
 ### La phase de build incluant l'exécution des tests
 Le build du projet (se compilation) ainsi que le lancement des programmes de tests peuvent se faire en ligne de commend via  la commande: 
